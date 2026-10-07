@@ -1,5 +1,4 @@
-streamlit
-playwright
-opencv-python-headless
-numpy
-requests
+chromium
+libglib2.0-0
+libnss3
+libfontconfig1
