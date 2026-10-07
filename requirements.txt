@@ -1,0 +1,5 @@
+streamlit
+playwright
+opencv-python-headless
+numpy
+requests
